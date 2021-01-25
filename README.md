@@ -20,7 +20,7 @@
     <hr>
     <h3>Public & Privet university</h3>
     <ul>
-      <li>Applying to the turkish scholership</li>
+      <li>Applying to the turkish scholarship</li>
       <li>Applying for the YOS exam</li>
     </ul>
     <hr>
