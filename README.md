@@ -9,6 +9,7 @@
     <table cellspacing="20">
       <tr>
         <td><img src="Plex Ed.png" alt="Plex.Ed"></td>
+        <br>
         <td>  <h2> Istanbul,Turkey</h2></td>
       </tr>
     </table>
