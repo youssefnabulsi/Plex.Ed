@@ -1,5 +1,5 @@
 # Plex.Ed
-<!DOCTYPE html>
+<html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -16,16 +16,16 @@
 
     <br>
 
-    <p>What ever you need for resistragtion in turkish university</p>
+    <p>What ever you need for registration in turkish universities</p>
     <hr>
-    <h3>public & privet university</h3>
+    <h3>Public & Privet university</h3>
     <ul>
-      <li>for applying to the turkish scholership</li>
-      <li>for applying for the YOS exam</li>
+      <li>Applying to the turkish scholership</li>
+      <li>Applying for the YOS exam</li>
     </ul>
     <hr>
-    <h2>PLex Ed offers</h2>
-    <table cellspacing"10">
+    <h2>Plex.Ed offers</h2>
+    
       <thead>
         <tr>
           <th>Dates</th>
@@ -47,20 +47,20 @@
         <td>2018-2021</td>
         <td>privet universities</td>
       </tr>
-    </table>
+    
     <hr>
-    <h3>skills</h3>
+    <h3>Our Students </h3>
     <table cellspacing="10">
       <tr>
-        <td>ios development</td>
+        <td>From Iraq</td>
         <td>⭐⭐⭐⭐⭐</td>
       </tr>
       <tr>
-        <td>android</td>
+        <td>From Algeria</td>
         <td>⭐⭐⭐⭐</td>
       </tr>
       <tr>
-        <td>sony</td>
+        <td>From Egypt</td>
         <td>⭐⭐⭐⭐</td>
       </tr>
 
